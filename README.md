@@ -18,6 +18,9 @@ My name is Noah Gampe this GitHub will be serve as my project portfolio for my a
 - ⚡ Fun fact: I lived in South Korea for 6 years! Just moved back to California in November 2021!
 - ⚡ Fun fact #2: I have a B.S. in Computer Engineering!
 
-[![Noahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-kg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/noah-kg/noah-kg/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/noah-kg/noah-kg/main/profile-summary-card-output/nord_dark/3-stats.svg)![](https://raw.githubusercontent.com/noah-kg/noah-kg/main/profile-summary-card-output/nord_dark/4-productive-time.svg)
+
+<!-- [![Noahs's GitHub stats](https://github-readme-stats.vercel.app/api?username=noah-kg&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noah-kg)](https://github.com/anuraghazra/github-readme-stats) -->
