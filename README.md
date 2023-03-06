@@ -8,10 +8,10 @@
 **noah-kg/noah-kg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
 
-My name is Noah Gampe! This GitHub will serve as my project portfolio for my aspiring career as a Data Scientist. I hope you will find my projects easy-to-understand, aesthetically pleasing, and curiously interesting. I had a lot of fun putting them together! I performed extensive research and gone down multiple rabbit holes on numerous topics to fully understand what goes into a data science project.
+My name is Noah Gampe! This GitHub will serve as my project portfolio for my aspiring career as a Data Analyst/Scientist. I hope you will find my projects easy-to-understand, aesthetically pleasing, and curiously interesting. I had a lot of fun putting them together! I performed extensive research and gone down multiple rabbit holes on numerous topics to fully understand what goes into a data science project.
 
-- 🔭 I’m currently working on putting my Data Science portfolio together!
-- 🌱 I’m currently learning as much as I can about Data Science & Machine Learning!
+- 🔭 I’m currently working on putting my Data portfolio together!
+- 🌱 I’m currently learning as much as I can about Data Analytics, Data Science, & Machine Learning!
 - 👯 I’m looking to collaborate on any curious passion projects that might benefit from my skills!
 - 💬 Ask me about [Photography](https://www.instagram.com/n0ah_kg), [Mechanical Keyboards](https://www.reddit.com/r/MechanicalKeyboards/), or [Bouldering](https://www.instagram.com/noah_likes_climbing/)!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/noahgampe/)
